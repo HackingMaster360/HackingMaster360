@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi there! I am Rakesh 
+##About me : 
+I am good Learner
+
+#My Stats
+
+![github stats](https://github-readme-stats.vercel.app/api?username=HackingMaster360)
+
+![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HackingMaster360)
+
+![github stats](https://github-readme-streak-stats.herokuapp.com/?user=HackingMaster360)
+
+- 🔭 I’m currently working on : Pranay Classes
+- 🌱 I’m currently learning Data science
+- 📫 How to reach me: 8603868179 (W), rakesuch@gmail.com
 
 <!--
 **HackingMaster360/HackingMaster360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
